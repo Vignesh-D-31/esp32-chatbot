@@ -100,6 +100,7 @@ This script handles:
 ## 📸 Screenshots
 ![WhatsApp Image 2025-04-30 at 20 36 02_8775a00b](https://github.com/user-attachments/assets/d59a7cec-3f27-4b63-9989-ebc4a1b68a49)
 ![WhatsApp Image 2025-04-30 at 20 36 01_f422d352](https://github.com/user-attachments/assets/6a638f30-bdec-44ce-a033-380bd83e95ef)
+![WhatsApp Image 2025-04-30 at 20 36 02_8775a00b](https://github.com/user-attachments/assets/d59a7cec-3f27-4b63-9989-ebc4a1b68a49)
 ![WhatsApp Image 2025-04-30 at 20 36 02_3d6652ec](https://github.com/user-attachments/assets/f1841e28-cd53-4630-bb93-e4969b74ee37)
 ![WhatsApp Image 2025-04-30 at 20 36 02_591db675](https://github.com/user-attachments/assets/cc3fba6b-c7a3-44d1-a176-5f49b3b4f406)
 ![WhatsApp Image 2025-04-30 at 20 36 03_6d5509c3](https://github.com/user-attachments/assets/9ceae6dc-85e4-453f-b963-d77369a10359)

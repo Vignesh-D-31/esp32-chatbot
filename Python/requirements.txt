@@ -1,0 +1,9 @@
+# Python dependencies
+google-cloud-texttospeech
+openai
+sounddevice
+SpeechRecognition
+pyaudio
+serial
+playsound
+requests

@@ -41,10 +41,10 @@ Jumper Wires
 |------------------|---------------|
 | VCC              | 3.3 V         |
 | GND              | GND           |
-| SLC (OLED 1)     | GPIO 22       |
+| SCL (OLED 1)     | GPIO 22       |
 | SDA (OLED 1)     | GPIO 21       |
-| SLC (OLED 2)     | GPIO 22       |
-| SDA (OLED 2)     | GPIO 21       |
+| SCL (OLED 2)     | GPIO 16       |
+| SDA (OLED 2)     | GPIO 17       |
 
 
 ## 🧠 AI Models

@@ -47,7 +47,7 @@ Jumper Wires
 | SDA (OLED 2)     | GPIO 21       |
 
 
-##🧠 AI Models
+## 🧠 AI Models
 
 -> Google Web Speech API (STT)
 -> Gemini AI via API call

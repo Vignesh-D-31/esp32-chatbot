@@ -101,13 +101,22 @@ This script handles:
 
 
 ## 📸 Screenshots
-![WhatsApp Image 2025-04-30 at 20 36 02_8775a00b](https://github.com/user-attachments/assets/d59a7cec-3f27-4b63-9989-ebc4a1b68a49)
-![WhatsApp Image 2025-04-30 at 20 36 01_f422d352](https://github.com/user-attachments/assets/6a638f30-bdec-44ce-a033-380bd83e95ef)
-![WhatsApp Image 2025-04-30 at 20 36 02_8775a00b](https://github.com/user-attachments/assets/d59a7cec-3f27-4b63-9989-ebc4a1b68a49)
-![WhatsApp Image 2025-04-30 at 21 45 07_929543af](https://github.com/user-attachments/assets/aa216966-d8ad-45c1-95b1-c0e955964938)
-![WhatsApp Image 2025-04-30 at 21 45 07_79407b41](https://github.com/user-attachments/assets/af82be05-6a65-431f-a6c3-32b5b843f3c8)
-![WhatsApp Image 2025-04-30 at 21 45 08_966515ad](https://github.com/user-attachments/assets/58205196-8290-478d-b128-099b86f34deb)
 
+-> Idle State:
+![image](https://github.com/user-attachments/assets/a855a60d-8a84-4aef-b265-7df71cb4a316)
+![image](https://github.com/user-attachments/assets/12a3a697-6ce4-455a-8084-082ef448aea2)
+![image](https://github.com/user-attachments/assets/085983cf-ffb9-48f5-95ed-c0ec8e6e8ecf)
+
+-> When inputs are not given:
+![image](https://github.com/user-attachments/assets/8c063b9d-54f9-4d89-a394-7a089e47943c)
+
+-> When exit commands are given:
+![image](https://github.com/user-attachments/assets/ef7e24eb-c2e8-46a0-b562-36edba70fa6e)
+
+-> Sample Questions and Responses:
+![image](https://github.com/user-attachments/assets/c1424a3a-03bc-43f7-831e-835ac252ff79)
+![image](https://github.com/user-attachments/assets/2b9eedf5-4870-48a9-b8ba-5958a094bd98)
+![image](https://github.com/user-attachments/assets/d8d32b5b-9943-4750-bf52-80dff6723127)
 
 
 ## 🎥 Demo Video

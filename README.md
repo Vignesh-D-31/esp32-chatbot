@@ -63,6 +63,9 @@ Jumper Wires
 6. Returns to **idle eye blinking**
 7. Handles **exit or unclear commands**
 
+![image](https://github.com/user-attachments/assets/512311f1-6a42-4b72-baaa-aeb350554b47)
+
+
 ## 🔧 Installation
 
 1. Clone the Repository

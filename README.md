@@ -103,17 +103,21 @@ This script handles:
 ## 📸 Screenshots
 
 -> Idle State:
+
 ![image](https://github.com/user-attachments/assets/a855a60d-8a84-4aef-b265-7df71cb4a316)
 ![image](https://github.com/user-attachments/assets/12a3a697-6ce4-455a-8084-082ef448aea2)
 ![image](https://github.com/user-attachments/assets/085983cf-ffb9-48f5-95ed-c0ec8e6e8ecf)
 
 -> When inputs are not given:
+
 ![image](https://github.com/user-attachments/assets/8c063b9d-54f9-4d89-a394-7a089e47943c)
 
 -> When exit commands are given:
+
 ![image](https://github.com/user-attachments/assets/ef7e24eb-c2e8-46a0-b562-36edba70fa6e)
 
 -> Sample Questions and Responses:
+
 ![image](https://github.com/user-attachments/assets/c1424a3a-03bc-43f7-831e-835ac252ff79)
 ![image](https://github.com/user-attachments/assets/2b9eedf5-4870-48a9-b8ba-5958a094bd98)
 ![image](https://github.com/user-attachments/assets/d8d32b5b-9943-4750-bf52-80dff6723127)
